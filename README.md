@@ -1,4 +1,4 @@
-# Desafio DIO: Speech Studio & Language Studio com Azure
+# Desafio DIO
 
 ## 🎯 Objetivo
 
